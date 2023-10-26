@@ -12,7 +12,7 @@ import Link from "next/link"
 
 const LandingPage = () =>{
   return(
-    <div className="flex items-center justify-center bg-black w-full h-full lg:bg-opacity-50">
+    <div className="flex items-center justify-center bg-purple-500 w-full h-full">
       <Card>
         <CardHeader>
           <CardTitle>Welcome to Sizzle Stats!</CardTitle>
